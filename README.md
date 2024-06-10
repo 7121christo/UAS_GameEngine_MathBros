@@ -39,4 +39,4 @@ Jika Anda memiliki pertanyaan atau masukan, jangan ragu untuk menghubungi kami m
 
 Terima kasih telah mengunjungi proyek MathBros! Kami berharap game ini dapat menjadi alat belajar yang bermanfaat dan menyenangkan bagi anak-anak. Selamat bermain dan belajar! 🌟
 
-<p align="right">Created by~ <br/>Candi Engine</p>
+<p align="right">Created by~ <br/><b>Candi Engine</b></p>
