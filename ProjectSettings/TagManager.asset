@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - Spikes
+  - Goal
+  - Number
+  - Question
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Ground
+  - Enemy
+  - Player
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 4105647657
+    locked: 0
+  - name: Foreground
+    uniqueID: 1286813813
+    locked: 0
+  - name: Object
+    uniqueID: 2041476033
+    locked: 0
+  - name: Character
+    uniqueID: 3911044489
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
