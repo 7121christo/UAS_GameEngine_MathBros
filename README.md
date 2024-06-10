@@ -1,11 +1,15 @@
 # MathBros: Petualangan Seru Belajar Matematika! 🎮➕➖✖️➗
 
-<img src="Assets/UI%20Main%20Menu/Title.png" alt="MathBros Logo" width="150">
+<p align="center"><img src="Assets/UI%20Main%20Menu/Title.png" alt="MathBros Logo" width="250"></p>
 
 Selamat datang di **MathBros**, sebuah game edukasi yang menggabungkan keseruan permainan platformer ala Mario Bros dengan tantangan matematika yang mendidik dan menyenangkan! 🎉
 
 ## 🎯 Deskripsi
 MathBros dirancang khusus untuk anak-anak SD agar mereka dapat belajar matematika dasar seperti penjumlahan, pengurangan, perkalian, dan pembagian sambil bermain. Melalui game ini, kami berharap dapat membantu anak-anak meningkatkan keterampilan matematika mereka dengan cara yang interaktif dan menghibur.
+
+## 📲 Preview Mathbros
+![Mathbros Game](preview1.jpg)
+![Mathbros Game](preview2.jpg)
 
 ## 🕹️ Fitur Utama
 - **Karakter Menarik**: Pemain mengendalikan karakter lucu yang berpetualang melalui berbagai level penuh warna.
@@ -31,3 +35,5 @@ Jika Anda memiliki pertanyaan atau masukan, jangan ragu untuk menghubungi kami m
 ---
 
 Terima kasih telah mengunjungi proyek MathBros! Kami berharap game ini dapat menjadi alat belajar yang bermanfaat dan menyenangkan bagi anak-anak. Selamat bermain dan belajar! 🌟
+
+<p align="right">Created by~ <br/>Candi Engine</p>
