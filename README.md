@@ -8,8 +8,11 @@ Selamat datang di **MathBros**, sebuah game edukasi yang menggabungkan keseruan 
 MathBros dirancang khusus untuk anak-anak SD agar mereka dapat belajar matematika dasar seperti penjumlahan, pengurangan, perkalian, dan pembagian sambil bermain. Melalui game ini, kami berharap dapat membantu anak-anak meningkatkan keterampilan matematika mereka dengan cara yang interaktif dan menghibur.
 
 ## 📲 Preview Mathbros
-![Mathbros Game](preview1.jpg)
-![Mathbros Game](preview2.jpg)
+<p>
+<img align="left" src="preview1.jpg" alt="MathBros Logo" width="450">
+<img src="preview2.jpg" alt="MathBros Logo" width="450">
+</p>
+
 
 ## 🕹️ Fitur Utama
 - **Karakter Menarik**: Pemain mengendalikan karakter lucu yang berpetualang melalui berbagai level penuh warna.
