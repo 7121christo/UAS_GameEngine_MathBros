@@ -1,6 +1,6 @@
 # MathBros: Petualangan Seru Belajar Matematika! 🎮➕➖✖️➗
 
-<img src="Assets/UI%20Main%20Menu/Title.png" alt="MathBros Logo" width="100">
+<img src="Assets/UI%20Main%20Menu/Title.png" alt="MathBros Logo" width="150">
 
 Selamat datang di **MathBros**, sebuah game edukasi yang menggabungkan keseruan permainan platformer ala Mario Bros dengan tantangan matematika yang mendidik dan menyenangkan! 🎉
 
