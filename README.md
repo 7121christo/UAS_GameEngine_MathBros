@@ -9,8 +9,8 @@ MathBros dirancang khusus untuk anak-anak SD agar mereka dapat belajar matematik
 
 ## 📲 Preview Mathbros
 <p>
-<img align="left" src="preview1.jpg" alt="MathBros Logo" width="450">
-<img src="preview2.jpg" alt="MathBros Logo" width="450">
+<img align="left" src="preview1.jpg" alt="MathBros Logo" width="400">
+<img src="preview2.jpg" alt="MathBros Logo" width="400">
 </p>
 
 
