@@ -28,7 +28,7 @@ MathBros dirancang khusus untuk anak-anak SD agar mereka dapat belajar matematik
 4. **Bersenang-senang Sambil Belajar**: Nikmati petualangan seru sambil meningkatkan kemampuan matematika!
 
 ## 👥 Tim Pengembang
-- **Christophouer Adyatma W. S. N. (71210677)**
+- **Christophorus Adyatma W. S. N. (71210771)**
 - **Farrel Ardyanto Saputro (71210702)**
 - **Nathanael Vito Kristianto (71210681)**
 
